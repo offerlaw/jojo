@@ -1,0 +1,5 @@
+*.ext filter=lfs diff=lfs merge=lfs -text
+“*.avi” filter=lfs diff=lfs merge=lfs -text
+“*.e5” filter=lfs diff=lfs merge=lfs -text
+*.e5 filter=lfs diff=lfs merge=lfs -text
+*.avi filter=lfs diff=lfs merge=lfs -text
